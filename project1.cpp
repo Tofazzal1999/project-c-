@@ -78,7 +78,7 @@ void modify()
      cout<<endl<<"Recored Modified";
      getch();
 }
-void search()   //searches record of student//
+void search()   //searches record of seat number//
 {
      node *prev=NULL;
      node *current=NULL;
